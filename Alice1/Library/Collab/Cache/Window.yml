@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffe70aba2e7074048aca5de573b64a59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SimpleSelectedItems:
+    m_Keys:
+    - Assets/CoffeeShopStarterPack/Materials/GridPlane.mat
+    - Assets/CoffeeShopStarterPack/Materials/ScreenshotPlane.mat
+    - Assets/CoffeeShopStarterPack/Materials/basic.mat
+    - Assets/CoffeeShopStarterPack/Materials/basic_green.mat
+    - Assets/CoffeeShopStarterPack/Materials/basic_metal.mat
+    - Assets/CoffeeShopStarterPack/Materials/basic_plant.mat
+    - Assets/CoffeeShopStarterPack/Materials/basic_red.mat
+    - Assets/CoffeeShopStarterPack/Materials/coffee_particle.mat
+    - Assets/CoffeeShopStarterPack/Materials/transparan.mat
+    - Assets/Dining Set/Materials/China.mat
+    - Assets/Dining Set/Materials/China_diffuse.mat
+    - Assets/Dining Set/Materials/China_diffuse.mat.meta
+    - Assets/Dining Set/Materials/Fabric.mat
+    - Assets/Dining Set/Materials/Fabric.mat.meta
+    - Assets/Dining Set/Materials/chair_antique.mat
+    - Assets/Dining Set/Materials/cutlery.mat
+    - Assets/Dining Set/Materials/dining_floor.mat
+    - Assets/Dining Set/Materials/floor_albedo.mat
+    - Assets/Dining Set/Materials/floor_albedo.mat.meta
+    - Assets/Dining Set/Materials/floor_ao.mat
+    - Assets/Dining Set/Materials/floor_ao.mat.meta
+    - Assets/Dining Set/Materials/flower.mat
+    - Assets/Dining Set/Materials/glass.mat
+    - Assets/Dining Set/Materials/glassjar_lp.mat
+    - Assets/Dining Set/Materials/napkin.mat
+    - Assets/Dining Set/Materials/plate.mat
+    - Assets/Dining Set/Materials/plate_LP.mat
+    - Assets/Dining Set/Materials/table_antique.mat
+    - Assets/Dining Set/Materials/tablecloth.mat
+    - Assets/Dining Set/Materials/vase2.mat
+    - Assets/Dining Set/Materials/vase_LP.mat
+    - Assets/Dining Set/Meshes/cutlery/Materials/Silver.mat
+    - Assets/Dining Set/Meshes/fabric/Materials/Material.mat
+    - Assets/Dining Set/Meshes/porcelain/Materials/No Name.mat
+    - Assets/Dining Set/Meshes/porcelain/Materials/plate1.mat
+    - Assets/Fantasy Skybox FREE/Materials/Classic/Materials.meta
+    - Assets/Fantasy Skybox FREE/Materials/Classic/Materials/FS000_Day_01_Sunless.mat
+    - Assets/Fantasy Skybox FREE/Materials/Classic/Materials/FS000_Day_01_Sunless.mat.meta
+    - Assets/Fantasy Skybox FREE/Materials/Classic/Materials/FS000_Day_04.mat
+    - Assets/Fantasy Skybox FREE/Materials/Classic/Materials/FS000_Day_04.mat.meta
+    - Assets/Fantasy Skybox FREE/Materials/Classic/Materials/FS000_Day_05.mat
+    - Assets/Fantasy Skybox FREE/Materials/Classic/Materials/FS000_Day_05.mat.meta
+    - Assets/Fantasy Skybox FREE/Materials/Classic/Materials/FS000_Night_03.mat
+    - Assets/Fantasy Skybox FREE/Materials/Classic/Materials/FS000_Night_03.mat.meta
+    - Assets/Scenes/TeaPartyScene.unity
+    - Assets/Terrain/Terrain_0_0_3b4ad534-462d-4310-b851-b122cc6c1ddc.asset
+    - Assets/Terrain/Terrain_0_0_a0b3383e-4bd6-4ed8-85bc-3a7f55c32756.asset
+    - Assets/Terrain/Terrain_0_0_a0b3383e-4bd6-4ed8-85bc-3a7f55c32756.asset.meta
+    - Assets/UniversalRenderPipelineAsset.asset
+    - Assets/UniversalRenderPipelineAsset.asset.meta
+    - Assets/UniversalRenderPipelineAsset_Renderer.asset
+    - Assets/UniversalRenderPipelineAsset_Renderer.asset.meta
+    - Packages/manifest.json
+    - Packages/packages-lock.json
+    - ProjectSettings/GraphicsSettings.asset
+    - ProjectSettings/InputManager.asset
+    - ProjectSettings/ProjectSettings.asset
+    - ProjectSettings/QualitySettings.asset
+    - 
+    m_Values: 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  RevisionSummary: 
+  ChangesSearchValue: 
+  SelectedHistoryRevision: 
+  HistoryPageNumber: 0
+  TabIndex: 0
