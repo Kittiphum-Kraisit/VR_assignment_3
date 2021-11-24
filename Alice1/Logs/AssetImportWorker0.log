@@ -15,12 +15,12 @@ C:/Users/SammySeal/Documents/GitHub/VR_assignment_3/Alice1
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-55028
+50699
 Successfully changed project path to: C:/Users/SammySeal/Documents/GitHub/VR_assignment_3/Alice1
 C:/Users/SammySeal/Documents/GitHub/VR_assignment_3/Alice1
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 84.28 ms, found 5 plugins.
-Preloading 1 native plugins for Editor in 0.87 ms.
+Refreshing native plugins compatible for Editor in 91.12 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.88 ms.
 Initialize engine version: 2020.3.17f1 (a4537701e4ab)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.17f1/Editor/Data/Resources/UnitySubsystems
 [Subsystems] Discovering subsystems at path C:/Users/SammySeal/Documents/GitHub/VR_assignment_3/Alice1/Assets
@@ -35,128 +35,128 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.17f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.17f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.17f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56364
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56156
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.17f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.17f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.002513 seconds.
+Registered in 0.002567 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 78.50 ms, found 5 plugins.
+Refreshing native plugins compatible for Editor in 80.41 ms, found 5 plugins.
 Preloading 1 native plugins for Editor in 0.09 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.097 seconds
+- Completed reload, in  1.119 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1097ms)
-		BeginReloadAssembly (48ms)
+	ReloadAssembly (1119ms)
+		BeginReloadAssembly (53ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (396ms)
-			LoadAssemblies (45ms)
+		EndReloadAssembly (405ms)
+			LoadAssemblies (51ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (126ms)
+			SetupTypeCache (130ms)
 			ReleaseScriptCaches (0ms)
 			RebuildScriptCaches (26ms)
-			SetupLoadedEditorAssemblies (179ms)
+			SetupLoadedEditorAssemblies (187ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (5ms)
+				InitializePlatformSupportModulesInManaged (4ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (79ms)
+				RefreshPlugins (81ms)
 				BeforeProcessingInitializeOnLoad (8ms)
-				ProcessInitializeOnLoadAttributes (64ms)
-				ProcessInitializeOnLoadMethodAttributes (24ms)
+				ProcessInitializeOnLoadAttributes (67ms)
+				ProcessInitializeOnLoadMethodAttributes (26ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.006410 seconds.
+Registered in 0.006421 seconds.
 Begin MonoManager ReloadAssembly
-Symbol file data-000001F706D114F0 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file data-0000022EF8DA0A40 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001F6DBFB66B0 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.RenderPipelines.Universal.Shaders.dll
+Symbol file data-0000022EF84952F0 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.RenderPipelines.Universal.Shaders.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001F707533020 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file data-0000022EF83FD010 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001F70B492250 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file data-0000022EFD64D230 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001F706C09460 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.Searcher.Editor.dll
+Symbol file data-0000022EF8DA0A40 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.Searcher.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001F70C78A440 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.ShaderGraph.Utilities.dll
+Symbol file data-0000022EF84FE300 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.ShaderGraph.Utilities.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001F70B327E40 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.ProBuilder.dll
+Symbol file data-0000022EF83FD010 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.ProBuilder.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001F707628D30 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\UnityEditor.UI.dll
+Symbol file data-0000022EF8AD6250 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\UnityEditor.UI.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001F707439020 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file data-0000022EFE354640 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.Rider.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001F70C78B040 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.RenderPipelines.Core.ShaderLibrary.dll
+Symbol file data-0000022EF88485F0 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.RenderPipelines.Core.ShaderLibrary.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001F70C6AD020 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\UnityEngine.UI.dll
+Symbol file data-0000022EF870A010 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\UnityEngine.UI.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001F70B4CC040 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.ProBuilder.Poly2Tri.dll
+Symbol file data-0000022EFE230030 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.ProBuilder.Poly2Tri.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001F706F410D0 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.ShaderGraph.Editor.dll
+Symbol file data-0000022EFD43F020 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.ShaderGraph.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001F706C09460 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.Settings.Editor.dll
+Symbol file data-0000022EF8DA0A40 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.Settings.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001F70C78B040 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.RenderPipeline.Universal.ShaderLibrary.dll
+Symbol file data-0000022EF84952F0 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.RenderPipeline.Universal.ShaderLibrary.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001F70C9BFA20 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file data-0000022EF8BEA220 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001F70C1BE100 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
+Symbol file data-0000022EF8CFBDF0 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001F706C9A050 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.RenderPipelines.Universal.Runtime.dll
+Symbol file data-0000022EFCA62010 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.RenderPipelines.Universal.Runtime.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001F70CB00500 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.ProBuilder.AddOns.Editor.dll
+Symbol file data-0000022EF8465D60 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.ProBuilder.AddOns.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001F706D026B0 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file data-0000022EF8AD6250 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001F70B327E40 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file data-0000022EFCA7C220 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001F70B33A050 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file data-0000022EFCA8E430 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.Timeline.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001F70B8D2020 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file data-0000022EFCE03010 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.TextMeshPro.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001F70C17BC60 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.ProBuilder.Csg.dll
+Symbol file data-0000022EF8BA24B0 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.ProBuilder.Csg.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001F70BD15430 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.RenderPipelines.Core.Runtime.dll
+Symbol file data-0000022EFCF9B420 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.RenderPipelines.Core.Runtime.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001F70BA01020 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.ProBuilder.Editor.dll
+Symbol file data-0000022EFCDAF010 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.ProBuilder.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001F70BA01020 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+Symbol file data-0000022EFCDAF010 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001F706E2C410 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.Mathematics.dll
+Symbol file data-0000022EFD6DA010 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.Mathematics.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001F7072381A0 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.ProBuilder.KdTree.dll
+Symbol file data-0000022EF88E2030 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.ProBuilder.KdTree.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001F706D129E0 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.TerrainTools.dll
+Symbol file data-0000022EF81CC940 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.TerrainTools.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001F707439020 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.Services.Core.Editor.dll
+Symbol file data-0000022EFCFB8840 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.Services.Core.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001F70BFD7010 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.RenderPipelines.Universal.Editor.dll
+Symbol file data-0000022EFCDAF010 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.RenderPipelines.Universal.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001F70CB06040 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.ProBuilder.AssetIdRemapUtility.dll
+Symbol file data-0000022EF8DA0A40 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.ProBuilder.AssetIdRemapUtility.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001F706CFF020 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.ProBuilder.Stl.dll
+Symbol file data-0000022EFD85DE30 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.ProBuilder.Stl.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001F70BD15430 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.TerrainTools.Editor.dll
+Symbol file data-0000022EFCDAF010 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.TerrainTools.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001F70C78B040 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll
+Symbol file data-0000022EF88493F0 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001F70BA01020 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file data-0000022EFCDAF010 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001F70BA01020 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.RenderPipelines.Core.Editor.dll
+Symbol file data-0000022EFCDCF030 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.RenderPipelines.Core.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 78.13 ms, found 5 plugins.
-Preloading 1 native plugins for Editor in 0.08 ms.
+Refreshing native plugins compatible for Editor in 81.71 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.09 ms.
 [XR] OculusXRPlugin: registering subsystems
 [XR] Unable to register display lifecyle provider: [1]
 [XR] Oculus Input lifecycle provider registered.
@@ -177,272 +177,45 @@ UnityEngine.Debug:LogError (object)
 UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
 
 Mono: successfully reloaded assembly
-- Completed reload, in  1.507 seconds
+- Completed reload, in  1.518 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1507ms)
-		BeginReloadAssembly (130ms)
+	ReloadAssembly (1519ms)
+		BeginReloadAssembly (127ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (7ms)
+			DisableScriptedObjects (4ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (18ms)
-		EndReloadAssembly (1318ms)
+		EndReloadAssembly (1331ms)
 			LoadAssemblies (94ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (308ms)
+			SetupTypeCache (315ms)
 			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (59ms)
-			SetupLoadedEditorAssemblies (740ms)
+			RebuildScriptCaches (62ms)
+			SetupLoadedEditorAssemblies (742ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (4ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (78ms)
+				RefreshPlugins (82ms)
 				BeforeProcessingInitializeOnLoad (95ms)
-				ProcessInitializeOnLoadAttributes (530ms)
-				ProcessInitializeOnLoadMethodAttributes (25ms)
+				ProcessInitializeOnLoadAttributes (534ms)
+				ProcessInitializeOnLoadMethodAttributes (20ms)
 				AfterProcessingInitializeOnLoad (7ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (4ms)
+			AwakeInstancesAfterBackupRestoration (5ms)
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
-Refreshing native plugins compatible for Editor in 1.43 ms, found 5 plugins.
-Preloading 1 native plugins for Editor in 0.13 ms.
-Unloading 4114 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 208.4 MB.
-System memory in use after: 208.4 MB.
-
-Unloading 38 unused Assets to reduce memory usage. Loaded Objects now: 4584.
-Total: 4.301800 ms (FindLiveObjects: 0.483500 ms CreateObjectMapping: 0.108700 ms MarkObjects: 3.476600 ms  DeleteObjects: 0.232000 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  path: Assets/StarterAssets/Readme.asset
-  artifactKey: Guid(4181bfe715a83e843b7538d750dc57cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/StarterAssets/Readme.asset using Guid(4181bfe715a83e843b7538d750dc57cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '535b182a35794d59d4034f8fe2fcf575') in 0.034959 seconds 
-  Import took 0.040798 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.477346 seconds.
-  path: Assets/Scenes/SampleScene.unity
-  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f69348ec6cdf44383034f8aa73b1a237') in 0.003357 seconds 
-  Import took 0.009256 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 20.751117 seconds.
-  path: Assets/NanaeAdded/HillsRock
-  artifactKey: Guid(1ec675bb52aa4674fb374cabdf557ab4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/NanaeAdded/HillsRock using Guid(1ec675bb52aa4674fb374cabdf557ab4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed6fa7ca5a90d6b6a3481d2119126337') in 0.002921 seconds 
-  Import took 0.009258 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 47.643568 seconds.
-  path: Assets/NanaeAdded/Food
-  artifactKey: Guid(5cf0aa22121ff334b925cad1cc2730cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/NanaeAdded/Food using Guid(5cf0aa22121ff334b925cad1cc2730cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '841f95b2fe36f6133b0cb3eb25bd2745') in 0.003348 seconds 
-  Import took 0.009468 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.072297 seconds.
-  path: Assets/NanaeAdded/Food/Hambuger.FBX
-  artifactKey: Guid(f9e7ed08898d80148b9f645cd07c8b8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/NanaeAdded/Food/Hambuger.FBX using Guid(f9e7ed08898d80148b9f645cd07c8b8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2a4429740b37b0d8c40da5dec528a7d') in 0.198007 seconds 
-  Import took 0.204479 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.872177 seconds.
-  path: Assets/NanaeAdded/Food/Materials
-  artifactKey: Guid(19e2fcc626e8f3c48b472ed0a0749449) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/NanaeAdded/Food/Materials using Guid(19e2fcc626e8f3c48b472ed0a0749449) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c48d9b4706a7bc88bdfbdfd8f7bdf85') in 0.002384 seconds 
-  Import took 0.008524 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.362939 seconds.
-  path: Assets/NanaeAdded/Food/Materials/acorn.mat
-  artifactKey: Guid(64ff37d311a4a1943965f5aee70acc7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/NanaeAdded/Food/Materials/acorn.mat using Guid(64ff37d311a4a1943965f5aee70acc7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7bc1c518a33f3fe97802aeeb6c9545f') in 0.088156 seconds 
-  Import took 0.094147 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000233 seconds.
-  path: Assets/NanaeAdded/Food/Materials/hambuger.mat
-  artifactKey: Guid(16f6c29b4ffaa4f48b6d9bf437a7b1b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/NanaeAdded/Food/Materials/hambuger.mat using Guid(16f6c29b4ffaa4f48b6d9bf437a7b1b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23373870c3a06ade4d38f6c6c76506ce') in 0.011304 seconds 
-  Import took 0.017032 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000222 seconds.
-  path: Assets/NanaeAdded/Food/Materials/banana.mat
-  artifactKey: Guid(a52bd370b45d5914fa4865ee4c9648f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/NanaeAdded/Food/Materials/banana.mat using Guid(a52bd370b45d5914fa4865ee4c9648f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5732d3d3d94606577a360daba30ad221') in 0.009742 seconds 
-  Import took 0.015246 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000200 seconds.
-  path: Assets/NanaeAdded/Food/Materials/apple.mat
-  artifactKey: Guid(3991cc4f6da65944bbf74decaf5aa4ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/NanaeAdded/Food/Materials/apple.mat using Guid(3991cc4f6da65944bbf74decaf5aa4ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e326ab03e86d5d9d7639b2f3ccad177') in 0.009635 seconds 
-  Import took 0.015476 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.007596 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file data-000001F70B4A1850 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001F716C0A5C0 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.RenderPipelines.Universal.Shaders.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001F707089980 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001F70D4F3010 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001F70739A010 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.Searcher.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001F718344B10 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.ShaderGraph.Utilities.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001F70D539020 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.ProBuilder.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001F706D026B0 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\UnityEditor.UI.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001F7107C6020 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001F70BF1D070 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.RenderPipelines.Core.ShaderLibrary.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001F707533020 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\UnityEngine.UI.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001F70C7CD010 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.ProBuilder.Poly2Tri.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001F70B268010 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.ShaderGraph.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001F70739A010 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.Settings.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001F716C09FF0 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.RenderPipeline.Universal.ShaderLibrary.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001F70C87F020 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001F7187B30A0 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001F718C5E030 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.RenderPipelines.Universal.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001F718499800 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.ProBuilder.AddOns.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001F706D026B0 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001F70C87F020 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001F70C87F020 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.Timeline.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001F70EDA4020 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001F707236390 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.ProBuilder.Csg.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001F70C9B5010 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.RenderPipelines.Core.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001F70BAFD020 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.ProBuilder.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001F70BAFD020 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001F707481DD0 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.Mathematics.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001F707236390 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.ProBuilder.KdTree.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001F7116B7C30 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.TerrainTools.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001F707431010 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.Services.Core.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001F70C6AD020 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.RenderPipelines.Universal.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001F70B4A1850 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.ProBuilder.AssetIdRemapUtility.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001F70BEAD030 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.ProBuilder.Stl.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001F70D539020 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.TerrainTools.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001F70BF1D070 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001F70B536410 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001F707533020 doesn't match image C:\Users\SammySeal\Documents\GitHub\VR_assignment_3\Alice1\Library\ScriptAssemblies\Unity.RenderPipelines.Core.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 1.38 ms, found 5 plugins.
-Preloading 1 native plugins for Editor in 0.12 ms.
-System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.NullReferenceException: Object reference not set to an instance of an object
-  at Unity.XR.Oculus.OculusLoader.AssetPathToAbsolutePath (System.String assetPath) [0x0004e] in <134c598d18764dfab47f79c1921cc757>:0 
-  at Unity.XR.Oculus.OculusLoader.EditorLoadOVRPlugin () [0x0007b] in <134c598d18764dfab47f79c1921cc757>:0 
-  at (wrapper managed-to-native) System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod,object,object[],System.Exception&)
-  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00032] in <695d1cc93cca45069c528c15c9fdd749>:0 
-   --- End of inner exception stack trace ---
-  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00048] in <695d1cc93cca45069c528c15c9fdd749>:0 
-  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
-  at UnityEditor.EditorAssemblies.ProcessInitializeOnLoadMethodAttributes () [0x00047] in <d0e4b8c1204147f3935b6e9c8b8565ad>:0 
-UnityEngine.StackTraceUtility:ExtractStackTrace ()
-UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
-UnityEngine.Logger:Log (UnityEngine.LogType,object)
-UnityEngine.Debug:LogError (object)
-UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
-
-Mono: successfully reloaded assembly
-- Completed reload, in  1.431 seconds
-Domain Reload Profiling:
-	ReloadAssembly (1431ms)
-		BeginReloadAssembly (143ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (5ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (46ms)
-		EndReloadAssembly (1227ms)
-			LoadAssemblies (89ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (305ms)
-			ReleaseScriptCaches (2ms)
-			RebuildScriptCaches (53ms)
-			SetupLoadedEditorAssemblies (646ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (5ms)
-				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (2ms)
-				BeforeProcessingInitializeOnLoad (79ms)
-				ProcessInitializeOnLoadAttributes (535ms)
-				ProcessInitializeOnLoadMethodAttributes (18ms)
-				AfterProcessingInitializeOnLoad (8ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (12ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.12 ms, found 5 plugins.
+Refreshing native plugins compatible for Editor in 1.21 ms, found 5 plugins.
 Preloading 1 native plugins for Editor in 0.10 ms.
-Unloading 3926 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 200.0 MB.
-System memory in use after: 200.0 MB.
+Unloading 4115 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 208.7 MB.
+System memory in use after: 208.7 MB.
 
-Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 4670.
-Total: 4.376700 ms (FindLiveObjects: 0.404500 ms CreateObjectMapping: 0.106200 ms MarkObjects: 3.630900 ms  DeleteObjects: 0.233700 ms)
+Unloading 38 unused Assets to reduce memory usage. Loaded Objects now: 4587.
+Total: 4.204300 ms (FindLiveObjects: 0.451500 ms CreateObjectMapping: 0.099400 ms MarkObjects: 3.439800 ms  DeleteObjects: 0.212100 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -456,266 +229,733 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 90.506946 seconds.
-  path: Assets/NanaeAdded
-  artifactKey: Guid(ce9351b14dc016b438c74f3cd66b0528) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/NanaeAdded using Guid(ce9351b14dc016b438c74f3cd66b0528) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9ce86dde594b17ea2e7a129b343914e') in 0.008887 seconds 
-  Import took 0.015210 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.003306 seconds.
-  path: Assets/NanaeAdded
-  artifactKey: Guid(ce9351b14dc016b438c74f3cd66b0528) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/NanaeAdded using Guid(ce9351b14dc016b438c74f3cd66b0528) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9ce86dde594b17ea2e7a129b343914e') in 0.002505 seconds 
-  Import took 0.006854 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.810085 seconds.
-  path: Assets/NanaeAdded/Food
-  artifactKey: Guid(5cf0aa22121ff334b925cad1cc2730cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/NanaeAdded/Food using Guid(5cf0aa22121ff334b925cad1cc2730cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36c0324d0d52bd81a9d9ae552a5267fa') in 0.002715 seconds 
-  Import took 0.009970 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000693 seconds.
-  path: Assets/NanaeAdded/Food
-  artifactKey: Guid(5cf0aa22121ff334b925cad1cc2730cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/NanaeAdded/Food using Guid(5cf0aa22121ff334b925cad1cc2730cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36c0324d0d52bd81a9d9ae552a5267fa') in 0.002354 seconds 
-  Import took 0.007372 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.035017 seconds.
-  path: Assets/NanaeAdded/Food/acorn.FBX
-  artifactKey: Guid(54c6faa2dba6665438008d4e7c8ea7e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/NanaeAdded/Food/acorn.FBX using Guid(54c6faa2dba6665438008d4e7c8ea7e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb331581785b79c1252e85ba61c8b0ed') in 0.151990 seconds 
-  Import took 0.158128 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000197 seconds.
-  path: Assets/NanaeAdded/Food/banana.FBX
-  artifactKey: Guid(3a9857ff38f5efa41ae3ff3ff643f2bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/NanaeAdded/Food/banana.FBX using Guid(3a9857ff38f5efa41ae3ff3ff643f2bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6dd2584e125b22d6798936866b0d041f') in 0.017618 seconds 
-  Import took 0.023475 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000208 seconds.
-  path: Assets/NanaeAdded/Food/apple.FBX
-  artifactKey: Guid(8db774d63ffa4304fb8dddd6116ead54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/NanaeAdded/Food/apple.FBX using Guid(8db774d63ffa4304fb8dddd6116ead54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0cb9187249bc485f7f375e3e4808cfa') in 0.016306 seconds 
-  Import took 0.021902 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000217 seconds.
-  path: Assets/NanaeAdded/Food/pizza.FBX
-  artifactKey: Guid(d3a88e33be12ed34b832c0be1f56a7a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/NanaeAdded/Food/pizza.FBX using Guid(d3a88e33be12ed34b832c0be1f56a7a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36f69506bc7c525b7ab6960a39fb217a') in 0.017567 seconds 
-  Import took 0.023054 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000207 seconds.
-  path: Assets/NanaeAdded/Food/mushroom.FBX
-  artifactKey: Guid(b53fab1a8a71cf745ad1af6d16214489) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/NanaeAdded/Food/mushroom.FBX using Guid(b53fab1a8a71cf745ad1af6d16214489) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0bce4cbacae78265b33be513c493718') in 0.016879 seconds 
-  Import took 0.022384 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000215 seconds.
-  path: Assets/NanaeAdded/Food/candy.FBX
-  artifactKey: Guid(7149044102d4ffe418bfc28480b28ad7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/NanaeAdded/Food/candy.FBX using Guid(7149044102d4ffe418bfc28480b28ad7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04d9d15a8a5e91a1d6f5509ff3281e88') in 0.016672 seconds 
-  Import took 0.022284 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000258 seconds.
-  path: Assets/NanaeAdded/Food/yogurt.FBX
-  artifactKey: Guid(1afd1833d5edaf6419570fb98bed2533) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/NanaeAdded/Food/yogurt.FBX using Guid(1afd1833d5edaf6419570fb98bed2533) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7b919d1cf907e95b6e927f2325dab94') in 0.017711 seconds 
-  Import took 0.023710 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000262 seconds.
-  path: Assets/NanaeAdded/Food/pea.FBX
-  artifactKey: Guid(ee17f19b050fb2f4f8322e87ecfced8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/NanaeAdded/Food/pea.FBX using Guid(ee17f19b050fb2f4f8322e87ecfced8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4e27e7ba27c6e5301605b6f4be4af8a') in 0.017347 seconds 
-  Import took 0.023681 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000336 seconds.
-  path: Assets/NanaeAdded/Food/onion.FBX
-  artifactKey: Guid(dc898d7128c93c34b8a99b201a7532d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/NanaeAdded/Food/onion.FBX using Guid(dc898d7128c93c34b8a99b201a7532d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd328bb09713beb6d16efbbd447e8c5a') in 0.017878 seconds 
-  Import took 0.023872 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000230 seconds.
-  path: Assets/NanaeAdded/Food/grape.FBX
-  artifactKey: Guid(7b5ec5c57af98c349b22ae545a4a9fcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/NanaeAdded/Food/grape.FBX using Guid(7b5ec5c57af98c349b22ae545a4a9fcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aaa4150641efc5a4a5ca993efc12335c') in 0.017546 seconds 
-  Import took 0.023160 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000239 seconds.
-  path: Assets/NanaeAdded/Food/orange.FBX
-  artifactKey: Guid(f889d6e3d71e9c54eaf07783b7e5348c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/NanaeAdded/Food/orange.FBX using Guid(f889d6e3d71e9c54eaf07783b7e5348c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '428597a9d8806ffdad1d5fb20fed1b6c') in 0.017312 seconds 
-  Import took 0.023148 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000208 seconds.
-  path: Assets/NanaeAdded/Food/ham.FBX
-  artifactKey: Guid(612f08e447938e2458702979247cb8cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/NanaeAdded/Food/ham.FBX using Guid(612f08e447938e2458702979247cb8cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '258271f4d38ff7c9c908fcb62a844859') in 0.016445 seconds 
-  Import took 0.022436 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000225 seconds.
-  path: Assets/NanaeAdded/Food/icecream.FBX
-  artifactKey: Guid(6da9d5cde97ad394e97f1227e5fbf342) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/NanaeAdded/Food/icecream.FBX using Guid(6da9d5cde97ad394e97f1227e5fbf342) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30b724d9b377c447ba9a8a79a29d10d9') in 0.019745 seconds 
-  Import took 0.025873 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000243 seconds.
-  path: Assets/NanaeAdded/Food/cake.FBX
-  artifactKey: Guid(7bbb3a38742169a4abd045d20e527d9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/NanaeAdded/Food/cake.FBX using Guid(7bbb3a38742169a4abd045d20e527d9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab2958e2d9b6aa62ad1a9615581a5bff') in 0.016401 seconds 
-  Import took 0.022295 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000226 seconds.
-  path: Assets/NanaeAdded/Food/carrot.FBX
-  artifactKey: Guid(3882ee1bc1bdf284b8872917c3979145) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/NanaeAdded/Food/carrot.FBX using Guid(3882ee1bc1bdf284b8872917c3979145) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '483ee4b39421502166b9be26a434326c') in 0.017465 seconds 
-  Import took 0.023963 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000199 seconds.
-  path: Assets/NanaeAdded/Food/Hambuger.FBX
-  artifactKey: Guid(f9e7ed08898d80148b9f645cd07c8b8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/NanaeAdded/Food/Hambuger.FBX using Guid(f9e7ed08898d80148b9f645cd07c8b8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00c728a9c2ecb0c74387ac4b4c3cc804') in 0.017315 seconds 
-  Import took 0.023693 seconds .
+  path: Assets/NanaeAdded/SkyBlock/Scenes/TerrainRock.terrainlayer
+  artifactKey: Guid(23ca62425aa6844409fae69dd6a7e78d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NanaeAdded/SkyBlock/Scenes/TerrainRock.terrainlayer using Guid(23ca62425aa6844409fae69dd6a7e78d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d8413100a708dd5eabbd68a18608d2e') in 0.086293 seconds 
+  Import took 0.092334 seconds .
 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000184 seconds.
-  path: Assets/NanaeAdded/Food/watermelon.FBX
-  artifactKey: Guid(d9b493bbd86ef3443a770a279d0426a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/NanaeAdded/Food/watermelon.FBX using Guid(d9b493bbd86ef3443a770a279d0426a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e950e8e5aad6a7103c1d81f47dcb007') in 0.016307 seconds 
-  Import took 0.022241 seconds .
+  path: Assets/Samples/Terrain Tools/0.1.0-preview/Terrain Assets/TerrainLayers/dirt.terrainlayer
+  artifactKey: Guid(c25f012d8eaba684b9a392d71f427372) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Terrain Tools/0.1.0-preview/Terrain Assets/TerrainLayers/dirt.terrainlayer using Guid(c25f012d8eaba684b9a392d71f427372) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e83d71cdfbe0b0034865ab5d3a58f22') in 0.013669 seconds 
+  Import took 0.021206 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000220 seconds.
-  path: Assets/NanaeAdded/Food/egg.FBX
-  artifactKey: Guid(214315961896cb246a09ddccf67044d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/NanaeAdded/Food/egg.FBX using Guid(214315961896cb246a09ddccf67044d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c9aa16b4a3cd30ac63b9611de8ce5cf') in 0.017332 seconds 
-  Import took 0.023308 seconds .
+  Time since last request: 0.000272 seconds.
+  path: Assets/Samples/Terrain Tools/0.1.0-preview/Terrain Assets/TerrainLayers/scree.terrainlayer
+  artifactKey: Guid(6a3097ee6a39c594e8c63dae726b2278) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Terrain Tools/0.1.0-preview/Terrain Assets/TerrainLayers/scree.terrainlayer using Guid(6a3097ee6a39c594e8c63dae726b2278) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f657d6dd988740689c3ef56c1eaa4ad6') in 0.012257 seconds 
+  Import took 0.020236 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000262 seconds.
-  path: Assets/NanaeAdded/Food/kiwi.FBX
-  artifactKey: Guid(944f91bda976fe544ac41f090012e16c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/NanaeAdded/Food/kiwi.FBX using Guid(944f91bda976fe544ac41f090012e16c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c874f40deba624c11bf8f6855e02b591') in 0.017941 seconds 
-  Import took 0.025070 seconds .
+  Time since last request: 0.000199 seconds.
+  path: Assets/FantasyEnvironments/Environments/Textures/_TerrainAutoUpgrade/layer_ground_grasscd2d2d038030d602.terrainlayer
+  artifactKey: Guid(3ea7607a4748109479f02a95f1992998) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Textures/_TerrainAutoUpgrade/layer_ground_grasscd2d2d038030d602.terrainlayer using Guid(3ea7607a4748109479f02a95f1992998) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2b5fbe0317c5fb653d74060ae98d89b') in 0.010514 seconds 
+  Import took 0.016650 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000189 seconds.
-  path: Assets/NanaeAdded/Food/cherry.FBX
-  artifactKey: Guid(93b3b0626c40d3445a72c4ceab70561b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/NanaeAdded/Food/cherry.FBX using Guid(93b3b0626c40d3445a72c4ceab70561b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3f612aca0c877ad5c758e6681d67ace') in 0.018995 seconds 
-  Import took 0.024862 seconds .
+  Time since last request: 0.000274 seconds.
+  path: Assets/Samples/Terrain Tools/0.1.0-preview/Terrain Assets/TerrainLayers/sand.terrainlayer
+  artifactKey: Guid(aa7afa2eb72909e4d8083508573d955f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Terrain Tools/0.1.0-preview/Terrain Assets/TerrainLayers/sand.terrainlayer using Guid(aa7afa2eb72909e4d8083508573d955f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81c626e85d478809b556af0283b2b459') in 0.012216 seconds 
+  Import took 0.018754 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000259 seconds.
-  path: Assets/NanaeAdded/Food/pumpkin.FBX
-  artifactKey: Guid(e0104657a83d1374b8e7cda818970954) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/NanaeAdded/Food/pumpkin.FBX using Guid(e0104657a83d1374b8e7cda818970954) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac0640cd7b07fa3ab16d88428bb346db') in 0.018190 seconds 
-  Import took 0.024303 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000212 seconds.
-  path: Assets/NanaeAdded/Food/tomato.FBX
-  artifactKey: Guid(292237ffd3dc1444c828be3c90e1d862) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/NanaeAdded/Food/tomato.FBX using Guid(292237ffd3dc1444c828be3c90e1d862) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '777a00f570852530be36abf78221f759') in 0.018037 seconds 
-  Import took 0.023599 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000229 seconds.
-  path: Assets/NanaeAdded/Food/waffle.FBX
-  artifactKey: Guid(5a5788db97aee9d4fa6e7b9c436e11f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/NanaeAdded/Food/waffle.FBX using Guid(5a5788db97aee9d4fa6e7b9c436e11f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e6cd671ead8f7f89aa84aee3f808aaf') in 0.017419 seconds 
-  Import took 0.023139 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000241 seconds.
-  path: Assets/NanaeAdded/Food/yam.FBX
-  artifactKey: Guid(8ae8faf07ac912643bcf8a162a6d03ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/NanaeAdded/Food/yam.FBX using Guid(8ae8faf07ac912643bcf8a162a6d03ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fa0139f7c5896f0449f4f3eee09a645') in 0.017308 seconds 
-  Import took 0.022975 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000223 seconds.
-  path: Assets/NanaeAdded/Food/garlic.FBX
-  artifactKey: Guid(643b9bf033a68bd4fb7df391ed53589a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/NanaeAdded/Food/garlic.FBX using Guid(643b9bf033a68bd4fb7df391ed53589a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2bfb8fad5e19b3cbe21c7f3e970dc45d') in 0.019370 seconds 
-  Import took 0.024761 seconds .
+  Time since last request: 0.000282 seconds.
+  path: Assets/FantasyEnvironments/Environments/Textures/_TerrainAutoUpgrade/layer_ground_roadcd2d2d038030d602.terrainlayer
+  artifactKey: Guid(4ddd81448660a664692ea37a97f4e590) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Textures/_TerrainAutoUpgrade/layer_ground_roadcd2d2d038030d602.terrainlayer using Guid(4ddd81448660a664692ea37a97f4e590) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba3873da8133cbbe70bd98ca1a888193') in 0.009874 seconds 
+  Import took 0.015907 seconds .
 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000191 seconds.
-  path: Assets/NanaeAdded/Food/lemon.FBX
-  artifactKey: Guid(c7babd0d9f849c9449d1c29e86f6245f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/NanaeAdded/Food/lemon.FBX using Guid(c7babd0d9f849c9449d1c29e86f6245f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ed5624bb0dfba3b65f2976c380c4c52') in 0.018901 seconds 
-  Import took 0.024623 seconds .
+  path: Assets/NanaeAdded/Forest2/Environments/Textures/_TerrainAutoUpgrade/layer_ground_grasscd2d2d038030d602.terrainlayer
+  artifactKey: Guid(5975da0e62c59b248b81b531866d2f3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NanaeAdded/Forest2/Environments/Textures/_TerrainAutoUpgrade/layer_ground_grasscd2d2d038030d602.terrainlayer using Guid(5975da0e62c59b248b81b531866d2f3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a918b8a7c8353b50c64114a23dd30a7') in 0.010082 seconds 
+  Import took 0.016495 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 25.850421 seconds.
-  path: Assets/Scenes/1HoleScene.unity
-  artifactKey: Guid(1fa1c7d093f5434408b7570b9d19ae68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/1HoleScene.unity using Guid(1fa1c7d093f5434408b7570b9d19ae68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2998a0b76f27d86adfba81bfbd9b2229') in 0.003580 seconds 
-  Import took 0.009638 seconds .
+  Time since last request: 0.000223 seconds.
+  path: Assets/NanaeAdded/SkyBlock/Scenes/TerrainDirt.terrainlayer
+  artifactKey: Guid(4cfa68d1057e3aa4fa73e494470eff04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NanaeAdded/SkyBlock/Scenes/TerrainDirt.terrainlayer using Guid(4cfa68d1057e3aa4fa73e494470eff04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b2b479d60bf24a42727a7cc5fe5d0d6') in 0.017012 seconds 
+  Import took 0.023658 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 39.279679 seconds.
-  path: Assets/Samples/Terrain Tools/0.1.0-preview/Terrain Assets/TerrainBrushes/terrainstamp_volcano01.brush
-  artifactKey: Guid(e5a2f11e9d7a4da4caf17b3e59800215) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Samples/Terrain Tools/0.1.0-preview/Terrain Assets/TerrainBrushes/terrainstamp_volcano01.brush using Guid(e5a2f11e9d7a4da4caf17b3e59800215) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c4afe532741b85cbe2a41945d74c4b2') in 0.030977 seconds 
-  Import took 0.037222 seconds .
+  Time since last request: 0.000217 seconds.
+  path: Assets/Fantasy Skybox FREE/Scenes/TerrainRock.terrainlayer
+  artifactKey: Guid(ca948470117be2143a600fa882a2b77a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Skybox FREE/Scenes/TerrainRock.terrainlayer using Guid(ca948470117be2143a600fa882a2b77a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ae5c6d3f8a434fb9a39ddee033ddc65') in 0.018140 seconds 
+  Import took 0.024446 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.033634 seconds.
-  path: Assets/Samples/Terrain Tools/0.1.0-preview/Terrain Assets/TerrainBrushes/terrainstamp_volcano01.brush
-  artifactKey: Guid(e5a2f11e9d7a4da4caf17b3e59800215) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Samples/Terrain Tools/0.1.0-preview/Terrain Assets/TerrainBrushes/terrainstamp_volcano01.brush using Guid(e5a2f11e9d7a4da4caf17b3e59800215) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c4afe532741b85cbe2a41945d74c4b2') in 0.015893 seconds 
-  Import took 0.022121 seconds .
+  Time since last request: 0.000248 seconds.
+  path: Assets/Fantasy Skybox FREE/Scenes/TerrainDirt.terrainlayer
+  artifactKey: Guid(d62e27a62f70e074eba77bbd9259e732) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Skybox FREE/Scenes/TerrainDirt.terrainlayer using Guid(d62e27a62f70e074eba77bbd9259e732) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db03c68255679f103cf6b2a808e96f33') in 0.014814 seconds 
+  Import took 0.021643 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/NanaeAdded/Forest2/Environments/Textures/_TerrainAutoUpgrade/layer_ground_roadcd2d2d038030d602.terrainlayer
+  artifactKey: Guid(ad63460852856f14695499fdeed3e53a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NanaeAdded/Forest2/Environments/Textures/_TerrainAutoUpgrade/layer_ground_roadcd2d2d038030d602.terrainlayer using Guid(ad63460852856f14695499fdeed3e53a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3de6f2b38a2a293afb80b0f34f79a8e') in 0.008863 seconds 
+  Import took 0.014991 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/Samples/Terrain Tools/0.1.0-preview/Terrain Assets/TerrainLayers/snow.terrainlayer
+  artifactKey: Guid(34a7124a250b6314f803cba5555e7faa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Terrain Tools/0.1.0-preview/Terrain Assets/TerrainLayers/snow.terrainlayer using Guid(34a7124a250b6314f803cba5555e7faa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a5deaa3fa54fa94fc992d18a5199ddc') in 0.012541 seconds 
+  Import took 0.018659 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/Samples/Terrain Tools/0.1.0-preview/Terrain Assets/TerrainLayers/moss.terrainlayer
+  artifactKey: Guid(56b2820651de357459e8d89d2b4f3f05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Terrain Tools/0.1.0-preview/Terrain Assets/TerrainLayers/moss.terrainlayer using Guid(56b2820651de357459e8d89d2b4f3f05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'daeccab795ac50e25d09ccd756236c2b') in 0.012652 seconds 
+  Import took 0.018653 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/Samples/Terrain Tools/0.1.0-preview/Terrain Assets/TerrainLayers/rock.terrainlayer
+  artifactKey: Guid(716937fe861ba6748bfd599e6802e70a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Terrain Tools/0.1.0-preview/Terrain Assets/TerrainLayers/rock.terrainlayer using Guid(716937fe861ba6748bfd599e6802e70a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4fc38c168608fb7b1596476a0ff0849f') in 0.011082 seconds 
+  Import took 0.017322 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/Fantasy Skybox FREE/Scenes/TerrainGrass.terrainlayer
+  artifactKey: Guid(adb6478a7f24de14eb356d6dc3d0c502) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Skybox FREE/Scenes/TerrainGrass.terrainlayer using Guid(adb6478a7f24de14eb356d6dc3d0c502) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4223c4fe44913fab67c619afdfd401fc') in 0.016105 seconds 
+  Import took 0.022454 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/NanaeAdded/SkyBlock/Scenes/TerrainGrass.terrainlayer
+  artifactKey: Guid(a5032e108e45bcc42aa5edb209b60c1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NanaeAdded/SkyBlock/Scenes/TerrainGrass.terrainlayer using Guid(a5032e108e45bcc42aa5edb209b60c1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75d23af5911e824dd1a731860d56eb3b') in 0.015339 seconds 
+  Import took 0.022631 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.627082 seconds.
+  path: Assets/Fantasy Skybox FREE/Scenes/Texture_Grass_Diffuse.png
+  artifactKey: Guid(5e1acf362611957488060eee4178b3f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Skybox FREE/Scenes/Texture_Grass_Diffuse.png using Guid(5e1acf362611957488060eee4178b3f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58166c6b6bb9af7d2a86dd1ca0b2624c') in 0.051666 seconds 
+  Import took 0.059565 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.358787 seconds.
+  path: Assets/Fantasy Skybox FREE/Scenes/Texture_Dirt_Diffuse.png
+  artifactKey: Guid(37d1938c74868484ea08b34225eb73b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Skybox FREE/Scenes/Texture_Dirt_Diffuse.png using Guid(37d1938c74868484ea08b34225eb73b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '374d67ec8ae58d7b280a601217fdbebd') in 0.011435 seconds 
+  Import took 0.017961 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000368 seconds.
+  path: Assets/Fantasy Skybox FREE/Scenes/Texture_Dirt_Diffuse.png
+  artifactKey: Guid(37d1938c74868484ea08b34225eb73b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Skybox FREE/Scenes/Texture_Dirt_Diffuse.png using Guid(37d1938c74868484ea08b34225eb73b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '374d67ec8ae58d7b280a601217fdbebd') in 0.009674 seconds 
+  Import took 0.016358 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 52.405376 seconds.
+  path: Assets/FantasyEnvironments/Environments/Textures/ground_road.tga
+  artifactKey: Guid(39e424b8c7b659e4d8c792f40deccbf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Textures/ground_road.tga using Guid(39e424b8c7b659e4d8c792f40deccbf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'babccb3fb95b65e505ef9c86c960969a') in 0.010786 seconds 
+  Import took 0.017551 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001657 seconds.
+  path: Assets/FantasyEnvironments/Environments/Textures/ground_road.tga
+  artifactKey: Guid(39e424b8c7b659e4d8c792f40deccbf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyEnvironments/Environments/Textures/ground_road.tga using Guid(39e424b8c7b659e4d8c792f40deccbf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'babccb3fb95b65e505ef9c86c960969a') in 0.008332 seconds 
+  Import took 0.014394 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.349674 seconds.
+  path: Assets/StarterAssets/Environment
+  artifactKey: Guid(8d8da06649314d7498296c53b4a0a77a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarterAssets/Environment using Guid(8d8da06649314d7498296c53b4a0a77a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e73bbea624668358bff75d8c20b59bbd') in 0.002614 seconds 
+  Import took 0.008895 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.023139 seconds.
+  path: Assets/StarterAssets/Environment/Prefabs
+  artifactKey: Guid(93bb3603ed019014a98e7c62df54135e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarterAssets/Environment/Prefabs using Guid(93bb3603ed019014a98e7c62df54135e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fdfa81e411a9d2ec361ec4619890c82e') in 0.002209 seconds 
+  Import took 0.008398 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.066969 seconds.
+  path: Assets/StarterAssets/Environment/Prefabs/Box_100x100x100_Prefab.prefab
+  artifactKey: Guid(e5f4daf24146ee040b5a2d7a73b30aa0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarterAssets/Environment/Prefabs/Box_100x100x100_Prefab.prefab using Guid(e5f4daf24146ee040b5a2d7a73b30aa0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c90ebbef7982dd72165020b6ef85971') in 0.144198 seconds 
+  Import took 0.150600 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/StarterAssets/Environment/Prefabs/Environment_Prefab.prefab
+  artifactKey: Guid(09aade0ecefd01e4b8f7661acf64f5c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarterAssets/Environment/Prefabs/Environment_Prefab.prefab using Guid(09aade0ecefd01e4b8f7661acf64f5c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca404b7c7a7a238aef2e376000511bcf') in 0.023945 seconds 
+  Import took 0.030240 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/StarterAssets/Environment/Prefabs/Structure_Prefab.prefab
+  artifactKey: Guid(79e624e6a8770a946afb866fd94b394b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarterAssets/Environment/Prefabs/Structure_Prefab.prefab using Guid(79e624e6a8770a946afb866fd94b394b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d805afd5323d697be65cce00a8c7741') in 0.014744 seconds 
+  Import took 0.021586 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/StarterAssets/Environment/Prefabs/Stairs_650_400_300_Prefab.prefab
+  artifactKey: Guid(50a0925b0c22af146a2d15615f815a1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarterAssets/Environment/Prefabs/Stairs_650_400_300_Prefab.prefab using Guid(50a0925b0c22af146a2d15615f815a1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '109981a515e7413a20cfebcaebd85f2b') in 0.014522 seconds 
+  Import took 0.020541 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/StarterAssets/Environment/Prefabs/Wall_Prefab.prefab
+  artifactKey: Guid(9eb847ab97b24024588682c8601254cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarterAssets/Environment/Prefabs/Wall_Prefab.prefab using Guid(9eb847ab97b24024588682c8601254cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '351d601dbbda1c5248dea4474d8f7839') in 0.013393 seconds 
+  Import took 0.019842 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/StarterAssets/Environment/Prefabs/Stairs_200x100x200_Prefab.prefab
+  artifactKey: Guid(466621a4836aa504c87c15d88722d465) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarterAssets/Environment/Prefabs/Stairs_200x100x200_Prefab.prefab using Guid(466621a4836aa504c87c15d88722d465) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d4fe45d073411126c6fdbc2aa536980') in 0.013443 seconds 
+  Import took 0.020115 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/StarterAssets/Environment/Prefabs/Box_350x250x200_Prefab.prefab
+  artifactKey: Guid(7b846d8f536f007498c941069487ce81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarterAssets/Environment/Prefabs/Box_350x250x200_Prefab.prefab using Guid(7b846d8f536f007498c941069487ce81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7df3ae7978383e17b63b4f02d2f11e94') in 0.014322 seconds 
+  Import took 0.020824 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/StarterAssets/Environment/Prefabs/Box_350x250x300_Prefab.prefab
+  artifactKey: Guid(687dbafc2b84b2846b9a4a7a7dae2a7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarterAssets/Environment/Prefabs/Box_350x250x300_Prefab.prefab using Guid(687dbafc2b84b2846b9a4a7a7dae2a7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c090888707140ae338125bf367963f2e') in 0.013536 seconds 
+  Import took 0.019578 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/StarterAssets/Environment/Prefabs/Tunnel_Prefab.prefab
+  artifactKey: Guid(e5d7b87d422ee0f478ee09eb32e24f4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarterAssets/Environment/Prefabs/Tunnel_Prefab.prefab using Guid(e5d7b87d422ee0f478ee09eb32e24f4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74727d1d3363e481fa9eef8ec7e13b74') in 0.013976 seconds 
+  Import took 0.019965 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/StarterAssets/Environment/Prefabs/Ramp_Prefab.prefab
+  artifactKey: Guid(8a7437817844dce4894b049de73b75f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarterAssets/Environment/Prefabs/Ramp_Prefab.prefab using Guid(8a7437817844dce4894b049de73b75f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0fe30036a0b8f523443d40a6405b853c') in 0.013839 seconds 
+  Import took 0.020192 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.429813 seconds.
+  path: Assets/NanaeAdded/Forest1/Glowing_Forest
+  artifactKey: Guid(15e4d63b294ef7744b60940d46ee8a1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NanaeAdded/Forest1/Glowing_Forest using Guid(15e4d63b294ef7744b60940d46ee8a1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82449bae2b9e5d92a1401f4a178141b0') in 0.002851 seconds 
+  Import took 0.009609 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.541816 seconds.
+  path: Assets/NanaeAdded/Forest1/Glowing_Forest/Materials
+  artifactKey: Guid(eb62c70b79cae6d4896d0d4aab2d8b6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NanaeAdded/Forest1/Glowing_Forest/Materials using Guid(eb62c70b79cae6d4896d0d4aab2d8b6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '661ea79a622da413f36575229f5f1408') in 0.002467 seconds 
+  Import took 0.009047 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.042415 seconds.
+  path: Assets/NanaeAdded/Forest1/Glowing_Forest/Materials/Birch_bark.mat
+  artifactKey: Guid(88f067c4e4e21e3449805b9f54a85258) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NanaeAdded/Forest1/Glowing_Forest/Materials/Birch_bark.mat using Guid(88f067c4e4e21e3449805b9f54a85258) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1a14b52b12302cd1a890ad868df8069') in 0.060622 seconds 
+  Import took 0.066974 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/NanaeAdded/Forest1/Glowing_Forest/Materials/Mushrooms03.mat
+  artifactKey: Guid(22ea887dce70c8a4981f2efa40d69f29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NanaeAdded/Forest1/Glowing_Forest/Materials/Mushrooms03.mat using Guid(22ea887dce70c8a4981f2efa40d69f29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '020cc31568635517192184abf5398a17') in 0.012725 seconds 
+  Import took 0.018380 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/NanaeAdded/Forest1/Glowing_Forest/Materials/Bush02.mat
+  artifactKey: Guid(248b7cf269a683c4fa35eae347e84bfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NanaeAdded/Forest1/Glowing_Forest/Materials/Bush02.mat using Guid(248b7cf269a683c4fa35eae347e84bfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '320bc665eaf3b8c4c06a2b2800c0d6dc') in 0.010979 seconds 
+  Import took 0.016370 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/NanaeAdded/Forest1/Glowing_Forest/Materials/Mushrooms01.mat
+  artifactKey: Guid(2da798dd359b0384c9e0ab2d421d8259) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NanaeAdded/Forest1/Glowing_Forest/Materials/Mushrooms01.mat using Guid(2da798dd359b0384c9e0ab2d421d8259) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74705ae392be83bf783cf133d5daa759') in 0.011140 seconds 
+  Import took 0.017141 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000163 seconds.
+  path: Assets/NanaeAdded/Forest1/Glowing_Forest/Materials/Bush01.mat
+  artifactKey: Guid(b3380417daec2034d93bd26cf14050e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NanaeAdded/Forest1/Glowing_Forest/Materials/Bush01.mat using Guid(b3380417daec2034d93bd26cf14050e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8312fc59fb4ad7394a439e452c511667') in 0.010938 seconds 
+  Import took 0.017537 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/NanaeAdded/Forest1/Glowing_Forest/Materials/Oak_branch.mat
+  artifactKey: Guid(f9e15fb8d24923c4b89ad5e2069a749e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NanaeAdded/Forest1/Glowing_Forest/Materials/Oak_branch.mat using Guid(f9e15fb8d24923c4b89ad5e2069a749e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a04f5c259aaf4bac37588f33cc50d1c') in 0.017182 seconds 
+  Import took 0.023180 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/NanaeAdded/Forest1/Glowing_Forest/Materials/Skybox_DAY.mat
+  artifactKey: Guid(5c378e2ef25ab334a88daa47d032b24b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NanaeAdded/Forest1/Glowing_Forest/Materials/Skybox_DAY.mat using Guid(5c378e2ef25ab334a88daa47d032b24b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5844d5577ff9403e73d983cbc945af29') in 0.014600 seconds 
+  Import took 0.020818 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/NanaeAdded/Forest1/Glowing_Forest/Materials/Mushrooms02.mat
+  artifactKey: Guid(0da047a466e56304192a1142a30fe9b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NanaeAdded/Forest1/Glowing_Forest/Materials/Mushrooms02.mat using Guid(0da047a466e56304192a1142a30fe9b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb64a91f4a66875a13838a347792fa96') in 0.011409 seconds 
+  Import took 0.017382 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/NanaeAdded/Forest1/Glowing_Forest/Materials/Fir_bark.mat
+  artifactKey: Guid(7881a81d11f6fb341a396582ee507e78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NanaeAdded/Forest1/Glowing_Forest/Materials/Fir_bark.mat using Guid(7881a81d11f6fb341a396582ee507e78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a64a288615616371474c8fdd7e40ab9a') in 0.010390 seconds 
+  Import took 0.017392 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/NanaeAdded/Forest1/Glowing_Forest/Materials/Water.mat
+  artifactKey: Guid(a5e5948ac985ba54381b403abb6f9b3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NanaeAdded/Forest1/Glowing_Forest/Materials/Water.mat using Guid(a5e5948ac985ba54381b403abb6f9b3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '467062141a403fadb20aad69d3d90d73') in 0.010331 seconds 
+  Import took 0.016869 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000310 seconds.
+  path: Assets/NanaeAdded/Forest1/Glowing_Forest/Materials/Stone01.mat
+  artifactKey: Guid(5a6a284fcef220e4cbee9f3449f05688) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NanaeAdded/Forest1/Glowing_Forest/Materials/Stone01.mat using Guid(5a6a284fcef220e4cbee9f3449f05688) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a99917a9c712131421f627076b654f4') in 0.012861 seconds 
+  Import took 0.018991 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/NanaeAdded/Forest1/Glowing_Forest/Materials/Streetlight_OFF.mat
+  artifactKey: Guid(c5e691712e1b46a4383d0e53b17736b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NanaeAdded/Forest1/Glowing_Forest/Materials/Streetlight_OFF.mat using Guid(c5e691712e1b46a4383d0e53b17736b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47fe03db3e9377b4f40c807892e06485') in 0.011104 seconds 
+  Import took 0.016733 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/NanaeAdded/Forest1/Glowing_Forest/Materials/Stump_tip.mat
+  artifactKey: Guid(549e88fcc1f31da44b2fe9da79c561f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NanaeAdded/Forest1/Glowing_Forest/Materials/Stump_tip.mat using Guid(549e88fcc1f31da44b2fe9da79c561f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4cded429355561a0284ddfb66e523a7') in 0.010968 seconds 
+  Import took 0.017035 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/NanaeAdded/Forest1/Glowing_Forest/Materials/Bridge.mat
+  artifactKey: Guid(2b76c6a7f19209d44b972f9272f8f003) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NanaeAdded/Forest1/Glowing_Forest/Materials/Bridge.mat using Guid(2b76c6a7f19209d44b972f9272f8f003) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5ee939b484e32a585e4f7ea5264f322') in 0.011799 seconds 
+  Import took 0.017541 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/NanaeAdded/Forest1/Glowing_Forest/Materials/Oak_bark.mat
+  artifactKey: Guid(912e20b258c53444eb779e0a8a50abfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NanaeAdded/Forest1/Glowing_Forest/Materials/Oak_bark.mat using Guid(912e20b258c53444eb779e0a8a50abfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6bcc1b2978126350d1e7eb1800f42798') in 0.012575 seconds 
+  Import took 0.018926 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/NanaeAdded/Forest1/Glowing_Forest/Materials/Water_wave.mat
+  artifactKey: Guid(79eaef812c9bef1409c3a4ad3fdee804) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NanaeAdded/Forest1/Glowing_Forest/Materials/Water_wave.mat using Guid(79eaef812c9bef1409c3a4ad3fdee804) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffa32b26aa1a2662f0697783a214f730') in 0.010698 seconds 
+  Import took 0.016487 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/NanaeAdded/Forest1/Glowing_Forest/Materials/Birch_branch.mat
+  artifactKey: Guid(ee0734e6008f396418d3f554a811649d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NanaeAdded/Forest1/Glowing_Forest/Materials/Birch_branch.mat using Guid(ee0734e6008f396418d3f554a811649d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e31a800d4b1036414acfc47760cf46bd') in 0.010365 seconds 
+  Import took 0.016276 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/NanaeAdded/Forest1/Glowing_Forest/Materials/Fence.mat
+  artifactKey: Guid(2a65fe797df3b394f9c7cc51db832d68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NanaeAdded/Forest1/Glowing_Forest/Materials/Fence.mat using Guid(2a65fe797df3b394f9c7cc51db832d68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd1f12b73e1e878a918d7dc62a4f7993') in 0.011031 seconds 
+  Import took 0.017908 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/NanaeAdded/Forest1/Glowing_Forest/Materials/Skybox_NIGHT.mat
+  artifactKey: Guid(538e81a3dd9acdc428c9dcefcbb6f566) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NanaeAdded/Forest1/Glowing_Forest/Materials/Skybox_NIGHT.mat using Guid(538e81a3dd9acdc428c9dcefcbb6f566) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85256dd2f43e513fa13fe38b9932627d') in 0.014196 seconds 
+  Import took 0.020599 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/NanaeAdded/Forest1/Glowing_Forest/Materials/Fir_branch.mat
+  artifactKey: Guid(34393798cc9f8244fb220442dbce74de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NanaeAdded/Forest1/Glowing_Forest/Materials/Fir_branch.mat using Guid(34393798cc9f8244fb220442dbce74de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93ebb6a6bb4005564b3e6c851d1dfadc') in 0.009937 seconds 
+  Import took 0.015667 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/NanaeAdded/Forest1/Glowing_Forest/Materials/Streetlight_ON.mat
+  artifactKey: Guid(bab8772a5337e1e418e19a197f152303) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NanaeAdded/Forest1/Glowing_Forest/Materials/Streetlight_ON.mat using Guid(bab8772a5337e1e418e19a197f152303) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbf01e443f025cbcf96c1f40b3712254') in 0.010965 seconds 
+  Import took 0.017773 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.910769 seconds.
+  path: Assets/NanaeAdded/Forest1/Glowing_Forest/DEMO/Demo_terrain.asset
+  artifactKey: Guid(e8b144a040126af469be6e95040b0fcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NanaeAdded/Forest1/Glowing_Forest/DEMO/Demo_terrain.asset using Guid(e8b144a040126af469be6e95040b0fcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) The tree Oak must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+
+The tree Oak must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+
+ -> (artifact id: '21ca824d5dbe2424540be03a71150c4d') in 0.039744 seconds 
+  Import took 0.047377 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.092345 seconds.
+  path: Assets/NanaeAdded/Forest1/Glowing_Forest/Prefabs
+  artifactKey: Guid(814465487a8752545a711663d8e38e18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NanaeAdded/Forest1/Glowing_Forest/Prefabs using Guid(814465487a8752545a711663d8e38e18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd66b135c6bb8eca70afc03348376eee7') in 0.002174 seconds 
+  Import took 0.008693 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.036670 seconds.
+  path: Assets/NanaeAdded/Forest1/Glowing_Forest/Prefabs/Bridge.prefab
+  artifactKey: Guid(4634910a8580fb149a1d17bf36f23b4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NanaeAdded/Forest1/Glowing_Forest/Prefabs/Bridge.prefab using Guid(4634910a8580fb149a1d17bf36f23b4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0bc60c988dc9a2c952d8286fcc83bd53') in 0.010899 seconds 
+  Import took 0.017641 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/NanaeAdded/Forest1/Glowing_Forest/Prefabs/Stone02.prefab
+  artifactKey: Guid(ef49f16d6d1e31248b48d5f57706a650) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NanaeAdded/Forest1/Glowing_Forest/Prefabs/Stone02.prefab using Guid(ef49f16d6d1e31248b48d5f57706a650) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8baaeaa46a6ab2589c96369c4a93fab3') in 0.010828 seconds 
+  Import took 0.016613 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/NanaeAdded/Forest1/Glowing_Forest/Prefabs/Stone01.prefab
+  artifactKey: Guid(ffec9fe989614a74181de47ce40d9f33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NanaeAdded/Forest1/Glowing_Forest/Prefabs/Stone01.prefab using Guid(ffec9fe989614a74181de47ce40d9f33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d4801df0d40036ba1b2f27a6236e283') in 0.010453 seconds 
+  Import took 0.017048 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/NanaeAdded/Forest1/Glowing_Forest/Prefabs/Water.prefab
+  artifactKey: Guid(94cbe56fc9684464494c9e07134e7731) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NanaeAdded/Forest1/Glowing_Forest/Prefabs/Water.prefab using Guid(94cbe56fc9684464494c9e07134e7731) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '457b48d4886896ec64c00f8079c99bb3') in 0.011947 seconds 
+  Import took 0.018618 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/NanaeAdded/Forest1/Glowing_Forest/Prefabs/Stump.prefab
+  artifactKey: Guid(3cf54fe7110fb624283a9c1e886cab04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NanaeAdded/Forest1/Glowing_Forest/Prefabs/Stump.prefab using Guid(3cf54fe7110fb624283a9c1e886cab04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d607692fb63e3fd655c7a4fc84f23ce') in 0.012663 seconds 
+  Import took 0.019700 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.460264 seconds.
+  path: Assets/NanaeAdded/Forest1/Glowing_Forest/Prefabs/Plants
+  artifactKey: Guid(a51bac0bcca88884da995b92282fcb28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NanaeAdded/Forest1/Glowing_Forest/Prefabs/Plants using Guid(a51bac0bcca88884da995b92282fcb28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42e00b1f86499d201655cbd2153ec3b3') in 0.002676 seconds 
+  Import took 0.009184 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.057685 seconds.
+  path: Assets/NanaeAdded/Forest1/Glowing_Forest/Prefabs/Plants/Birch.prefab
+  artifactKey: Guid(a35ad1ca558615943a3a42547e7bef8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NanaeAdded/Forest1/Glowing_Forest/Prefabs/Plants/Birch.prefab using Guid(a35ad1ca558615943a3a42547e7bef8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21aedbe7ee15b512c55a3316e6f62b79') in 0.015591 seconds 
+  Import took 0.021919 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000168 seconds.
+  path: Assets/NanaeAdded/Forest1/Glowing_Forest/Prefabs/Plants/Fir.prefab
+  artifactKey: Guid(681caea7d7db32e468aa5bc7e60da2f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NanaeAdded/Forest1/Glowing_Forest/Prefabs/Plants/Fir.prefab using Guid(681caea7d7db32e468aa5bc7e60da2f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4b935306da68b6328573c9e138dc88f') in 0.010597 seconds 
+  Import took 0.016235 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/NanaeAdded/Forest1/Glowing_Forest/Prefabs/Plants/Bush01.prefab
+  artifactKey: Guid(4c9eeb66e4e34be43b04b66ff0e5bb5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NanaeAdded/Forest1/Glowing_Forest/Prefabs/Plants/Bush01.prefab using Guid(4c9eeb66e4e34be43b04b66ff0e5bb5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8ddf2842df29885f190bc4eb928e367') in 0.010491 seconds 
+  Import took 0.016493 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/NanaeAdded/Forest1/Glowing_Forest/Prefabs/Plants/Mushrooms01.prefab
+  artifactKey: Guid(946d6139259d35444ae7eafbdf8f87fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NanaeAdded/Forest1/Glowing_Forest/Prefabs/Plants/Mushrooms01.prefab using Guid(946d6139259d35444ae7eafbdf8f87fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2d26e67513354647bacafb1b1bfde14') in 0.011709 seconds 
+  Import took 0.017964 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/NanaeAdded/Forest1/Glowing_Forest/Prefabs/Plants/Oak.prefab
+  artifactKey: Guid(38693110c240171409a05b6a2347b900) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NanaeAdded/Forest1/Glowing_Forest/Prefabs/Plants/Oak.prefab using Guid(38693110c240171409a05b6a2347b900) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af2eea888a14de0e3b2201ec2ab76d1a') in 0.011312 seconds 
+  Import took 0.017918 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/NanaeAdded/Forest1/Glowing_Forest/Prefabs/Plants/Bush02.prefab
+  artifactKey: Guid(5279a4d472407d847a1cf22b68805c63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NanaeAdded/Forest1/Glowing_Forest/Prefabs/Plants/Bush02.prefab using Guid(5279a4d472407d847a1cf22b68805c63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6b5e1aa5da7bfbc3010daddecddad97') in 0.010475 seconds 
+  Import took 0.017111 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/NanaeAdded/Forest1/Glowing_Forest/Prefabs/Plants/Mushrooms02.prefab
+  artifactKey: Guid(12c49111266b30b4d855c0c5b77eb3fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NanaeAdded/Forest1/Glowing_Forest/Prefabs/Plants/Mushrooms02.prefab using Guid(12c49111266b30b4d855c0c5b77eb3fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3bb9f833f18c46062028e649145601bb') in 0.011020 seconds 
+  Import took 0.017209 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/NanaeAdded/Forest1/Glowing_Forest/Prefabs/Plants/Mushrooms03.prefab
+  artifactKey: Guid(e6ba9b16af0144c428401df4428fde4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NanaeAdded/Forest1/Glowing_Forest/Prefabs/Plants/Mushrooms03.prefab using Guid(e6ba9b16af0144c428401df4428fde4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f73d9c7136b24814ffa4ef0979de537e') in 0.013414 seconds 
+  Import took 0.020206 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.797121 seconds.
+  path: Assets/NanaeAdded/Forest2/Environments/Terrain.asset
+  artifactKey: Guid(348a7dfb803138f45a1f9fabfd024e6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NanaeAdded/Forest2/Environments/Terrain.asset using Guid(348a7dfb803138f45a1f9fabfd024e6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42b43134e90585d7dc59cdd87de1e60d') in 0.083927 seconds 
+  Import took 0.091659 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.050041 seconds.
+  path: Assets/NanaeAdded/Forest2/Environments/Prefabs
+  artifactKey: Guid(9e44a7668c3a6704eb20409205640f0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NanaeAdded/Forest2/Environments/Prefabs using Guid(9e44a7668c3a6704eb20409205640f0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fab09e53a5eebc9c46eda1c8bf725015') in 0.002307 seconds 
+  Import took 0.009444 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.054030 seconds.
+  path: Assets/NanaeAdded/Forest2/Environments/Prefabs/Flower1.prefab
+  artifactKey: Guid(d4386c54a32765d4e9e2ab9fe79bdcbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NanaeAdded/Forest2/Environments/Prefabs/Flower1.prefab using Guid(d4386c54a32765d4e9e2ab9fe79bdcbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce82080e59711aeafe7c4ec321a32ed3') in 0.010433 seconds 
+  Import took 0.016720 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/NanaeAdded/Forest2/Environments/Prefabs/Mushroom1.prefab
+  artifactKey: Guid(fada84012bc103346a64dc0d972b12c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NanaeAdded/Forest2/Environments/Prefabs/Mushroom1.prefab using Guid(fada84012bc103346a64dc0d972b12c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3cd4517cce46836ef122af4ac6c66d65') in 0.015521 seconds 
+  Import took 0.021811 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/NanaeAdded/Forest2/Environments/Prefabs/Rock1.prefab
+  artifactKey: Guid(3e0b7d017c675af41a5f405ad2df915f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NanaeAdded/Forest2/Environments/Prefabs/Rock1.prefab using Guid(3e0b7d017c675af41a5f405ad2df915f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '866c47db096ef8926512cf8e379e5cfd') in 0.011429 seconds 
+  Import took 0.017442 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/NanaeAdded/Forest2/Environments/Prefabs/Flower2.prefab
+  artifactKey: Guid(28280764b4e54df4db419dfbddca2fac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NanaeAdded/Forest2/Environments/Prefabs/Flower2.prefab using Guid(28280764b4e54df4db419dfbddca2fac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ddf4bec0d4a6d14a7d7c702ee184109f') in 0.010906 seconds 
+  Import took 0.017504 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/NanaeAdded/Forest2/Environments/Prefabs/Grass1.prefab
+  artifactKey: Guid(8bb9a27178bc1354b80057981558f945) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NanaeAdded/Forest2/Environments/Prefabs/Grass1.prefab using Guid(8bb9a27178bc1354b80057981558f945) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dea74c55cb3a3dfc2bc8ea513fdaefaf') in 0.010386 seconds 
+  Import took 0.017340 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.395230 seconds.
+  path: Assets/NanaeAdded/Forest2/Environments/Textures/ground_grass.tga
+  artifactKey: Guid(a87faa24f925ffa4ebb34c9edd6daf8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NanaeAdded/Forest2/Environments/Textures/ground_grass.tga using Guid(a87faa24f925ffa4ebb34c9edd6daf8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2264e3a67381a37e858a9792b4d60d07') in 0.008718 seconds 
+  Import took 0.015032 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/NanaeAdded/Forest2/Environments/Textures/ground_road.tga
+  artifactKey: Guid(7dd0d31362b0a0e428c2d48a6047b962) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NanaeAdded/Forest2/Environments/Textures/ground_road.tga using Guid(7dd0d31362b0a0e428c2d48a6047b962) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69a2e5bd4056a01a640a73965c72dd5e') in 0.007873 seconds 
+  Import took 0.014164 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/NanaeAdded/Forest2/Environments/Textures/Rock1.tga
+  artifactKey: Guid(26aba4bc44cdb574aa2e38e79190483e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NanaeAdded/Forest2/Environments/Textures/Rock1.tga using Guid(26aba4bc44cdb574aa2e38e79190483e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78d0429fc11f05182419516c71dc44d6') in 0.010367 seconds 
+  Import took 0.016533 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/NanaeAdded/Forest2/Environments/Textures/Plant.tga
+  artifactKey: Guid(57610cb92c59989429e0bf06ce1afe3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NanaeAdded/Forest2/Environments/Textures/Plant.tga using Guid(57610cb92c59989429e0bf06ce1afe3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f68f8ae83641c673349fd26469992cd1') in 0.009188 seconds 
+  Import took 0.015081 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.961362 seconds.
+  path: Assets/NanaeAdded/Forest2/Environments/Materials/Plant.mat
+  artifactKey: Guid(3783e1545fe98014e824a7f02a5bba20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NanaeAdded/Forest2/Environments/Materials/Plant.mat using Guid(3783e1545fe98014e824a7f02a5bba20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0832a64736f9699ff43378ea2754fa2') in 0.257166 seconds 
+  Import took 0.263686 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000173 seconds.
+  path: Assets/NanaeAdded/Forest2/Environments/Materials/Rock1.mat
+  artifactKey: Guid(1a68932088ba2624ab4bf905f5ab3d9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NanaeAdded/Forest2/Environments/Materials/Rock1.mat using Guid(1a68932088ba2624ab4bf905f5ab3d9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8d84a32b5fffa17d0ee32e2a16b4041') in 0.192513 seconds 
+  Import took 0.197941 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.896063 seconds.
+  path: Assets/NanaeAdded/Forest2/Environments/FBX/Flower1.FBX
+  artifactKey: Guid(186e599eb647ee04d9c58b605278d85b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NanaeAdded/Forest2/Environments/FBX/Flower1.FBX using Guid(186e599eb647ee04d9c58b605278d85b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39e4dd3db61f6a782b6bcc56a32eff35') in 0.036292 seconds 
+  Import took 0.043053 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/NanaeAdded/Forest2/Environments/FBX/Grass1.FBX
+  artifactKey: Guid(eaf03fe91cf6da8468fbf9f323fe494b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NanaeAdded/Forest2/Environments/FBX/Grass1.FBX using Guid(eaf03fe91cf6da8468fbf9f323fe494b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba821db52b1cb64fca75b9c39be3b402') in 0.014773 seconds 
+  Import took 0.020420 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/NanaeAdded/Forest2/Environments/FBX/Rock1.fbx
+  artifactKey: Guid(854aeb7fcc0514e41b0d26831296cc98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NanaeAdded/Forest2/Environments/FBX/Rock1.fbx using Guid(854aeb7fcc0514e41b0d26831296cc98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b13cdd1d985da2b17e92239e1df3886') in 0.023249 seconds 
+  Import took 0.029555 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000159 seconds.
+  path: Assets/NanaeAdded/Forest2/Environments/FBX/Flower2.FBX
+  artifactKey: Guid(20a9498c52493f84397556e95a2f287f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NanaeAdded/Forest2/Environments/FBX/Flower2.FBX using Guid(20a9498c52493f84397556e95a2f287f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d5b0920f155eeb858d831f699a91c69') in 0.014882 seconds 
+  Import took 0.020997 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/NanaeAdded/Forest2/Environments/FBX/Mushroom1.FBX
+  artifactKey: Guid(b46db5474d655254bbb166b1536bef1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NanaeAdded/Forest2/Environments/FBX/Mushroom1.FBX using Guid(b46db5474d655254bbb166b1536bef1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9813ebe65029cc877e36d44f258c46ca') in 0.015261 seconds 
+  Import took 0.021489 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000332 seconds.
+  path: Assets/NanaeAdded/Forest2/Environments/FBX/Flower2.FBX
+  artifactKey: Guid(20a9498c52493f84397556e95a2f287f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NanaeAdded/Forest2/Environments/FBX/Flower2.FBX using Guid(20a9498c52493f84397556e95a2f287f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d5b0920f155eeb858d831f699a91c69') in 0.014862 seconds 
+  Import took 0.021498 seconds .
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
